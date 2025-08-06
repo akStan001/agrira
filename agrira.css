@@ -20,10 +20,7 @@
     width: 100%;
     overflow-x: auto;
   }
-.about-content{
-        display: flex;
-        
-        flex-wrap: wrap;
+
         
 }
 
@@ -1360,6 +1357,7 @@
             }
         }
     
+
 
 
 
